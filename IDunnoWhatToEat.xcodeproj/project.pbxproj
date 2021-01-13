@@ -321,7 +321,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = T235H7BWH9;
+				DEVELOPMENT_TEAM = JFTEHE2V9R;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = iOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -329,7 +329,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.looping.idunnowhattoeat.IDunnoWhatToEat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.looping.idunnowhattoeat;
 				PRODUCT_NAME = IDunnoWhatToEat;
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
@@ -343,7 +343,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = T235H7BWH9;
+				DEVELOPMENT_TEAM = JFTEHE2V9R;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = iOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -351,7 +351,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.looping.idunnowhattoeat.IDunnoWhatToEat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.looping.idunnowhattoeat;
 				PRODUCT_NAME = IDunnoWhatToEat;
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
@@ -377,7 +377,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.looping.idunnowhattoeat.IDunnoWhatToEat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.looping.idunnowhattoeat;
 				PRODUCT_NAME = IDunnoWhatToEat;
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
@@ -401,7 +401,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.looping.idunnowhattoeat.IDunnoWhatToEat;
+				PRODUCT_BUNDLE_IDENTIFIER = com.looping.idunnowhattoeat;
 				PRODUCT_NAME = IDunnoWhatToEat;
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
