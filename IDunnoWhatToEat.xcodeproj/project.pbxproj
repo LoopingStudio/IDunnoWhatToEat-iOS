@@ -13,6 +13,8 @@
 		B802F77325AF0BFC00C7E1E7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B802F75E25AF0BF800C7E1E7 /* ContentView.swift */; };
 		B802F77425AF0BFC00C7E1E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B802F75F25AF0BFC00C7E1E7 /* Assets.xcassets */; };
 		B802F77525AF0BFC00C7E1E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B802F75F25AF0BFC00C7E1E7 /* Assets.xcassets */; };
+		B862EFFA25AF6E6C00A31C6A /* FavouriteMealsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B862EFF925AF6E6C00A31C6A /* FavouriteMealsView.swift */; };
+		B862EFFB25AF6E6C00A31C6A /* FavouriteMealsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B862EFF925AF6E6C00A31C6A /* FavouriteMealsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,7 @@
 		B802F76C25AF0BFC00C7E1E7 /* IDunnoWhatToEat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IDunnoWhatToEat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B802F76E25AF0BFC00C7E1E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B802F76F25AF0BFC00C7E1E7 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		B862EFF925AF6E6C00A31C6A /* FavouriteMealsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteMealsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,7 @@
 				B802F75D25AF0BF800C7E1E7 /* IDunnoWhatToEatApp.swift */,
 				B802F75E25AF0BF800C7E1E7 /* ContentView.swift */,
 				B802F75F25AF0BFC00C7E1E7 /* Assets.xcassets */,
+				B862EFF925AF6E6C00A31C6A /* FavouriteMealsView.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -187,6 +191,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B862EFFA25AF6E6C00A31C6A /* FavouriteMealsView.swift in Sources */,
 				B802F77225AF0BFC00C7E1E7 /* ContentView.swift in Sources */,
 				B802F77025AF0BFC00C7E1E7 /* IDunnoWhatToEatApp.swift in Sources */,
 			);
@@ -196,6 +201,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B862EFFB25AF6E6C00A31C6A /* FavouriteMealsView.swift in Sources */,
 				B802F77325AF0BFC00C7E1E7 /* ContentView.swift in Sources */,
 				B802F77125AF0BFC00C7E1E7 /* IDunnoWhatToEatApp.swift in Sources */,
 			);
